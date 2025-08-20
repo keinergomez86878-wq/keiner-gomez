@@ -1,0 +1,11 @@
+opcion-inp(inpute("elige un opcion(1-3)
+
+match opcion
+case:elif("mago vale 500")
+print(has elegido la opcion 1")
+case:elife( una manzana vale  500")
+print(has elegido la opcion 2")
+case:elife(una  manzana vale 500<")
+print(has elegido la opcion 3")
+case_:
+print("opcion invanlidad)
